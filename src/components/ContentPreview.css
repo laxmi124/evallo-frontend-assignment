@@ -1,0 +1,42 @@
+/* ContentPreview.css */
+
+.content-preview-container {
+  margin-top: 50px;
+}
+
+.preview-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.content-list {
+  list-style: none;
+  padding: 0;
+}
+
+.content-item {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.content-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.content-description {
+  margin-bottom: 15px;
+}
+
+.content-link {
+  display: block;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.content-link:hover {
+  text-decoration: underline;
+}
